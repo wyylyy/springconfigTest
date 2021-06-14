@@ -1,2 +1,3 @@
 #测试
-config.info=hello,I'm wyy
+config: 
+   info: hello,I'm wyy
